@@ -1,6 +1,6 @@
 # bulmasnippets README
 
-This extension generates a simple bulma css template
+This VScode extension generates a simple bulma css template
 with
 ```javascript
 !blm
