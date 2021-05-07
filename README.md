@@ -1,7 +1,7 @@
 # bulmasnippets README
 
 This extension generates a simple bulma css template
-with a simple 
+with
 ```javascript
 !blm
 ```
