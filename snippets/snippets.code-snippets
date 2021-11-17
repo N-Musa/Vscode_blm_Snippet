@@ -9,7 +9,7 @@
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
         "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
         "<meta name=\"Description\" content=\"Enter your description here\"/>",
-        "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css\">",
+        "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">",
         "<link rel=\"stylesheet\" href=\"path/to/font-awesome/css/font-awesome.min.css\">",
         "<link rel=\"stylesheet\" href=\"assets/css/style.css\">",
         "<title>${1:Title}</title>",
@@ -19,5 +19,6 @@
         "</body>",
         "</html>"
       ],
-      "description": "Creates Bulma Starter Boilerplate"
-    }}
+      "description": "Generate's Bulma CSS using html <link> tag boilerplate w/ font-awesome CDN"
+    }
+}
